@@ -1,0 +1,11 @@
+Fractal gerado a partir de 0 interações:
+Sequência de símbolos: 
+Fractal gerado a partir de 1 interações:
+Sequência de símbolos: -F+F+F-
+Fractal gerado a partir de 2 interações:
+Sequência de símbolos: -+F-F-F+-F+F+F--F+F+F-+F-F-F+
+Fractal gerado a partir de 3 interações:
+Sequência de símbolos: -+-F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F-
+Fractal gerado a partir de 4 interações:
+Sequência de símbolos: -+-+F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F+-F+F+F-+F-F-F++F-F-F+-F+F+F--F+F+F-+F-F-F++F-F-F+-F+F+F-+F-F-F+-F+F+F--F+F+F-+F-F-F+
+

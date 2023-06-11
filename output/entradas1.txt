@@ -1,0 +1,4 @@
+Número do fractal correspondente: 2
+Axioma: X
+Angulo: 90.000000
+Regra: F-F+F+FF-F-F+F

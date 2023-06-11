@@ -1,0 +1,5 @@
+Número do fractal correspondente: 7
+Axioma: X
+Angulo: 90
+Regra para X -> XFYFX+F+YFXFY-F-XFYFX
+Regra para Y -> YFXFY-F-XFYFX+F+YFXFY

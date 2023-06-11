@@ -1,0 +1,4 @@
+Axioma: X
+Angulo: 90
+Regra para X -> -YF+XFX+FY-
+Regra para Y -> +XF-YFY-FX+
